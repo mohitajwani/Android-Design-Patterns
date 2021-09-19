@@ -56,3 +56,13 @@ freeline_project_description.json
 /.idea/modules.xml
 /.idea/navEditor.xml
 /.idea/vcs.xml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/workspace.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.cxx
